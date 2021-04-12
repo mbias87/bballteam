@@ -1,0 +1,16 @@
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.exe
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.deps.json
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.runtimeconfig.json
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.runtimeconfig.dev.json
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.dll
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\ref\src.dll
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\bin\Debug\net5.0\src.pdb
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.csprojAssemblyReference.cache
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.AssemblyInfoInputs.cache
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.AssemblyInfo.cs
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.csproj.CoreCompileInputs.cache
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.dll
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\ref\src.dll
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.pdb
+C:\Users\mbias\bballTeamManager\src\BballTeamManager\obj\Debug\net5.0\src.genruntimeconfig.cache
